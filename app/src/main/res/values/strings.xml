@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Geocoding</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_defined"><![CDATA[<Não definido>]]></string>
+    <string name="locale">Localizaçao:</string>
+    <string name="address">Endereço:</string>
+</resources>
